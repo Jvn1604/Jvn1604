@@ -90,14 +90,14 @@
 <!-- REPOS:START -->
 | Repo | Description | Language | Last push |
 |---|---|---|---|
-| 🌐 **[geq-toolkit](https://github.com/Jvn1604/geq-toolkit)** | Open-source Game Experience Questionnaire web app + researcher dashboard for game user research | `JavaScript` · ⭐ 2 | 2026-07-03 |
-| 🎮 **[EscapeTHEDebt_psm](https://github.com/Jvn1604/EscapeTHEDebt_psm)** | Unity 6 URP serious game teaching debt management — Final Year Project | `C#` · ⭐ 1 | 2026-07-02 |
-| 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | PySide6 desktop app for tracking in-game deaths across any title | `Python` · ⭐ 3 | 2026-06-20 |
-| 🐍 **[game-deals-scraper](https://github.com/Jvn1604/game-deals-scraper)** | Flask + BeautifulSoup scraper for game deals, Dockerized | `Python` | 2026-06-10 |
-| 🐍 **[content-creator-assets-dataset](https://github.com/Jvn1604/content-creator-assets-dataset)** | Curated open dataset of procedural SVG assets for creators | `Python` · ⭐ 1 | 2026-05-28 |
-| 🌐 **[jvn1604.github.io](https://github.com/Jvn1604/jvn1604.github.io)** | Cyberpunk-themed portfolio with hidden terminal + RPG character sheet | `HTML` · ⭐ 1 | 2026-05-15 |
+| 🌐 **[geq-toolkit](https://github.com/Jvn1604/geq-toolkit)** | _No description yet._ | `JavaScript` | 2026-07-02 |
+| 🎨 **[Jvn1604.github.io](https://github.com/Jvn1604/Jvn1604.github.io)** | My portfolio | `CSS` | 2026-07-02 |
+| 🐍 **[game-deals-scraper](https://github.com/Jvn1604/game-deals-scraper)** | _No description yet._ | `Python` | 2026-07-01 |
+| 🌐 **[content-creator-assets-dataset](https://github.com/Jvn1604/content-creator-assets-dataset)** | A dataset of 50 content-creator broadcast assets — overlays, transitions, alerts, and font kits — with metadata, generated previews, and a browsable UI | `HTML` | 2026-07-01 |
+| 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | a simple manual death counter | `Python` | 2026-06-30 |
+| 🌐 **[Feedback-Responses](https://github.com/Jvn1604/Feedback-Responses)** | GAME Feedback Responses | `HTML` | 2026-06-24 |
 
-<sub>🤖 Auto-updated 2026-07-02 · showing 6 most recently updated of 7 public repos</sub>
+<sub>🤖 Auto-updated 2026-07-03 · showing 6 most recently updated of 9 public repos</sub>
 <!-- REPOS:END -->
 
 ---
