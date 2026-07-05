@@ -6,28 +6,28 @@
   <circle cx="118" cy="120" r="80.5" fill="none" stroke="rgba(230,237,243,0.08)" stroke-width="9"/>
   <path d="M 37.5 120 A 80.5 80.5 0 1 1 158.25 189.72" fill="none" stroke="#f2b134" stroke-width="9" stroke-linecap="round"/>
   <circle cx="118" cy="120" r="65" fill="none" stroke="rgba(230,237,243,0.08)" stroke-width="9"/>
-  <path d="M 53 120 A 65 65 0 0 1 150.5 63.71" fill="none" stroke="#e8734a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M 53 120 A 65 65 0 1 1 150.5 176.29" fill="none" stroke="#e8734a" stroke-width="9" stroke-linecap="round"/>
   <circle cx="118" cy="120" r="49.5" fill="none" stroke="rgba(230,237,243,0.08)" stroke-width="9"/>
   <path d="M 68.5 120 A 49.5 49.5 0 0 1 142.75 77.13" fill="none" stroke="#7b5aa3" stroke-width="9" stroke-linecap="round"/>
   <g transform="translate(248, 34)">
     <rect width="11" height="11" rx="2.5" fill="#00f7ff"/>
     <text x="20" y="10" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Python</text>
-    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">3 repos · 33%</text>
+    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">3 repos · 30%</text>
   </g>
   <g transform="translate(248, 67)">
     <rect width="11" height="11" rx="2.5" fill="#f2b134"/>
-    <text x="20" y="10" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML</text>
-    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">2 repos · 22%</text>
+    <text x="20" y="10" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">JavaScript</text>
+    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">2 repos · 20%</text>
   </g>
   <g transform="translate(248, 100)">
     <rect width="11" height="11" rx="2.5" fill="#e8734a"/>
-    <text x="20" y="10" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">JavaScript</text>
-    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">1 repo · 11%</text>
+    <text x="20" y="10" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML</text>
+    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">2 repos · 20%</text>
   </g>
   <g transform="translate(248, 133)">
     <rect width="11" height="11" rx="2.5" fill="#7b5aa3"/>
     <text x="20" y="10" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">CSS</text>
-    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">1 repo · 11%</text>
+    <text x="20" y="26" fill="#8b949e" font-family="ui-monospace, monospace" font-size="10.5">1 repo · 10%</text>
   </g>
   <text x="446" y="230" text-anchor="end" fill="#8b949e" font-family="ui-monospace, monospace" font-size="8.5">auto-generated · ring chart</text>
 </svg>
