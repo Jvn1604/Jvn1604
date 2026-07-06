@@ -97,7 +97,7 @@
 | 🌐 **[content-creator-assets-dataset](https://github.com/Jvn1604/content-creator-assets-dataset)** | A dataset of 50 content-creator broadcast assets — overlays, transitions, alerts, and font kits — with metadata, generated previews, and a browsable UI | `HTML` | 2026-07-01 |
 | 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | a simple manual death counter | `Python` | 2026-06-30 |
 
-<sub>🤖 Auto-updated 2026-07-05 · showing 6 most recently updated of 10 public repos</sub>
+<sub>🤖 Auto-updated 2026-07-06 · showing 6 most recently updated of 10 public repos</sub>
 <!-- REPOS:END -->
 
 ---
