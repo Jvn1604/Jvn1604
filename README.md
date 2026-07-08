@@ -90,14 +90,14 @@
 <!-- REPOS:START -->
 | Repo | Description | Language | Last push |
 |---|---|---|---|
+| 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | a simple manual death counter | `Python` | 2026-07-07 |
 | 🌐 **[escape-debt-dashboard](https://github.com/Jvn1604/escape-debt-dashboard)** | _No description yet._ | `JavaScript` | 2026-07-04 |
 | 🌐 **[geq-toolkit](https://github.com/Jvn1604/geq-toolkit)** | _No description yet._ | `JavaScript` | 2026-07-04 |
 | 🎨 **[Jvn1604.github.io](https://github.com/Jvn1604/Jvn1604.github.io)** | My portfolio | `CSS` | 2026-07-02 |
 | 🐍 **[game-deals-scraper](https://github.com/Jvn1604/game-deals-scraper)** | _No description yet._ | `Python` | 2026-07-01 |
 | 🌐 **[content-creator-assets-dataset](https://github.com/Jvn1604/content-creator-assets-dataset)** | A dataset of 50 content-creator broadcast assets — overlays, transitions, alerts, and font kits — with metadata, generated previews, and a browsable UI | `HTML` | 2026-07-01 |
-| 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | a simple manual death counter | `Python` | 2026-06-30 |
 
-<sub>🤖 Auto-updated 2026-07-07 · showing 6 most recently updated of 10 public repos</sub>
+<sub>🤖 Auto-updated 2026-07-08 · showing 6 most recently updated of 10 public repos</sub>
 <!-- REPOS:END -->
 
 ---
