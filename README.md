@@ -90,14 +90,14 @@
 <!-- REPOS:START -->
 | Repo | Description | Language | Last push |
 |---|---|---|---|
+| 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | a simple manual death counter | `Python` | 2026-10-28 |
 | 🌐 **[DCLIX_Webapp](https://github.com/Jvn1604/DCLIX_Webapp)** | _No description yet._ | `HTML` | 2026-10-27 |
 | 🌐 **[MyYoutubesite](https://github.com/Jvn1604/MyYoutubesite)** | _No description yet._ | `JavaScript` | 2026-10-23 |
 | 🌐 **[Phantom-Awards](https://github.com/Jvn1604/Phantom-Awards)** | _No description yet._ | `JavaScript` | 2026-10-15 |
 | 🌐 **[geq-toolkit](https://github.com/Jvn1604/geq-toolkit)** | _No description yet._ | `JavaScript` | 2026-08-28 |
-| 🐍 **[UniversalDeathCounter](https://github.com/Jvn1604/UniversalDeathCounter)** | a simple manual death counter | `Python` | 2026-07-08 |
 | 🌐 **[escape-debt-dashboard](https://github.com/Jvn1604/escape-debt-dashboard)** | _No description yet._ | `JavaScript` | 2026-07-04 |
 
-<sub>🤖 Auto-updated 2026-10-27 · showing 6 most recently updated of 13 public repos</sub>
+<sub>🤖 Auto-updated 2026-10-28 · showing 6 most recently updated of 13 public repos</sub>
 <!-- REPOS:END -->
 
 ---
